@@ -30,6 +30,7 @@ p {
 
 /* ▼ WHERE YOUR CODE BEGINS */
 .card {
+  max-width: 540px;
   padding: 20px;
   background-color: #fff;
 }
