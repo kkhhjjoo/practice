@@ -40,6 +40,10 @@ a {
   font-weight: 500;
   color: #2860e1;
 }
+.tab-menu-item.selected a {
+  color: #2860e1;
+  font-weight: 500;
+}
 .tab-menu-item:last-child {
   margin-right: 0;
 }
