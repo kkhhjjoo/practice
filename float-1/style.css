@@ -21,6 +21,9 @@ a {
   border-bottom: 1px solid #e5eaef;
   list-style-type: none;
 }
+/* .tab-menu {
+  overflow: hidden;
+} */
 .tab-menu::after {
   content: '';
   display: block;
