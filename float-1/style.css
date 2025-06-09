@@ -17,6 +17,7 @@ a {
 
 /* ▼ WHERE YOUR CODE BEGINS */
 .tab-menu {
+  max-width: 540px;
   padding-left: 0;
   border-bottom: 1px solid #e5eaef;
   list-style-type: none;
@@ -43,6 +44,7 @@ a {
 .tab-menu-item.selected a {
   color: #2860e1;
   font-weight: 500;
+  border-bottom: 2px solid #2860e1;
 }
 .tab-menu-item:last-child {
   margin-right: 0;
